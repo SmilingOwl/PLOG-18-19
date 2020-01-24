@@ -19,6 +19,7 @@ This is an example of how the interface looks like:
 ![Cam Image](https://github.com/SmilingOwl/PLOG-18_19/blob/master/Cam/docs/Cam1.jfif)
 
 A 3D interface for this game was implemented for another curricular unity (LAIG) and it is available [here](https://github.com/SmilingOwl/LAIG-18_19).
+<br>
 
 ## Chess Loop Puzzles
 
