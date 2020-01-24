@@ -1,10 +1,10 @@
 # PLOG 2018/2019
 
-Curricular Unity: PLOG - Logic Programming <br>
-Lective Year: 2018/2019
+**Curricular Unity:** PLOG - Logic Programming <br>
+**Lective Year:** 2018/2019
 
-Programming Language: Prolog <br>
-Program used: Sicstus.
+**Programming Language:** Prolog <br>
+**Program used:** Sicstus.
 
 Developed in collaboration with *Helena Montenegro*.
 
